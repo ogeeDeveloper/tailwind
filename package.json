@@ -1,0 +1,21 @@
+{
+  "name": "tailwindcss_esentials",
+  "version": "1.0.0",
+  "description": "Learing about the essetials of tailwindCSS",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "Omaro Grant",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.7",
+    "browser-sync": "^2.27.5",
+    "gulp-postcss": "^9.0.1",
+    "init": "^0.1.2",
+    "tailwindcss": "^2.2.16"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
